@@ -1,0 +1,6 @@
+framework module Pods_ejParking {
+  umbrella header "Pods-ejParking-umbrella.h"
+
+  export *
+  module * { export * }
+}
